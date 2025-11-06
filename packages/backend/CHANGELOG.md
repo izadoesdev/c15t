@@ -1,5 +1,22 @@
 # @c15t/backend
 
+## 1.8.0-canary-20251106101408
+
+### Minor Changes
+
+- 7043a2e: feat: add configurable legal links to consent banner and consent dialog
+- bee7789: feat(core): identify users before & after consent is set
+  feat(backend): add endpoint to identify subject with consent ID
+  refactor(core): improved structure of client API & removed unused options
+
+### Patch Changes
+
+- 6e3034c: refactor: update rslib to latest version
+- Updated dependencies [7043a2e]
+- Updated dependencies [6e3034c]
+  - @c15t/translations@1.8.0-canary-20251106101408
+  - @c15t/logger@1.0.1-canary-20251106101408
+
 ## 1.8.0-canary-20251028143243
 
 ### Patch Changes

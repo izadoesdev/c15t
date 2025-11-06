@@ -1,5 +1,15 @@
 # @c15t/translations
 
+## 1.8.0-canary-20251106101408
+
+### Minor Changes
+
+- 7043a2e: feat: add configurable legal links to consent banner and consent dialog
+
+### Patch Changes
+
+- 6e3034c: refactor: update rslib to latest version
+
 ## 1.7.0
 
 ### Minor Changes

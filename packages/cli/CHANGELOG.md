@@ -1,5 +1,18 @@
 # @c15t/cli
 
+## 1.8.0-canary-20251106101408
+
+### Patch Changes
+
+- 6e3034c: refactor: update rslib to latest version
+- Updated dependencies [31953f4]
+- Updated dependencies [7043a2e]
+- Updated dependencies [6e3034c]
+- Updated dependencies [bee7789]
+  - @c15t/react@1.8.0-canary-20251106101408
+  - @c15t/backend@1.8.0-canary-20251106101408
+  - @c15t/logger@1.0.1-canary-20251106101408
+
 ## 1.8.0-canary-20251028143243
 
 ### Patch Changes
